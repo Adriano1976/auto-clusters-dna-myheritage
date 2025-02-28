@@ -12,13 +12,13 @@ O **AutoClustering** é uma ferramenta automática que organiza suas **Correspon
 
 ## Por que é importante para mim?
 
-O AutoClustering é uma ferramenta essencial para quem deseja explorar sua genealogia de forma mais clara e organizada. Ele ajuda a:
+O [AutoClustering](https://adriano1976.github.io/AutoClusters/) é uma ferramenta essencial para quem deseja explorar sua genealogia de forma mais clara e organizada. Ele ajuda a:
 
 - **Identificar Ancestrais Comuns**: Agrupa correspondências que provavelmente descendem do mesmo ancestral, facilitando a construção da árvore genealógica.
 - **Visualizar Conexões**: O gráfico visual torna mais fácil entender como as correspondências estão relacionadas entre si e com você.
 - **Economizar Tempo**: Automatiza o processo de organização das correspondências, permitindo que você foque na análise e descoberta de novas conexões familiares.
 
-Com o AutoClustering, explorar suas raízes nunca foi tão intuitivo e eficiente! 🌳
+Com o [AutoClustering](https://adriano1976.github.io/AutoClusters/), explorar suas raízes nunca foi tão intuitivo e eficiente! 🌳
 
 <br><hr><br>
 
